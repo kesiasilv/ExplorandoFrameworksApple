@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  WidgetKit
+//  StudyWidgetKit
 //
 //  Created by Késia Silva Viana on 11/10/25.
 //
