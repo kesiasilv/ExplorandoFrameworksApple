@@ -1,6 +1,6 @@
 # 🍎 Apple Frameworks Studies
 
-Repositório com pequenos projetos criados para estudar frameworks do ecossistema Apple (Swift e SwiftUI).
+Repositório com pequenos projetos criados para estudar frameworks do ecossistema Apple (SwiftUI e UIKit).
 
 ## 📚 Projetos incluídos
 
