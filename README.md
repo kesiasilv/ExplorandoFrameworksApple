@@ -6,8 +6,8 @@ Repositório com pequenos projetos criados para estudar frameworks do ecossistem
 
 | Framework | Descrição |
 |------------|------------|
-| 🛎 Notification | Envio e agendamento de notificações locais no iOS |
-| 🗺 .... | Em breve) |
+| 🛎 Local Notification | Envio e agendamento de notificações locais no iOS |
+| 🖼️ WidgetKit | Widgets estáticos que mudam mensalmente |
 
 ## 🧠 Objetivo
 
