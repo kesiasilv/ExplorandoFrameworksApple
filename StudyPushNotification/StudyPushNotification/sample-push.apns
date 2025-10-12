@@ -1,0 +1,11 @@
+
+{
+    "Simulator Target Bundle": "br.com.kesia.StudyPushNotification",
+    "aps": {
+        "alert": {
+            "title": "This a test notification title",
+            "body": "This a test notification body"
+        }
+    }
+}
+

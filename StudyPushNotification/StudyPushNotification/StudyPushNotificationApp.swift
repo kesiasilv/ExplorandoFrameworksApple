@@ -9,9 +9,15 @@ import SwiftUI
 
 @main
 struct StudyPushNotificationApp: App {
+    //aqui ele chama o delegate para executar
+    @UIApplicationDelegateAdaptor var appDelegate: CustomAppDelegate
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .onAppear{
+                    appDelegate.app = self
+                }
         }
     }
 }
