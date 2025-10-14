@@ -9,6 +9,7 @@ Repositório com pequenos projetos criados para estudar frameworks do ecossistem
 | 🛎 Local Notification | Envio e agendamento de notificações locais no iOS |
 | 🛎 Push Notification | Envio de notificações do servidor |
 | 🖼️ WidgetKit | Widgets estáticos que mudam mensalmente |
+| 🤖 Foundations Models | App simples que o usuário solicita algo pelo prompt e o foundations retorna a resposta |
 
 ## 🧠 Objetivo
 
