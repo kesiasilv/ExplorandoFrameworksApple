@@ -10,6 +10,7 @@ Repositório com pequenos projetos criados para estudar frameworks do ecossistem
 | 🛎 Push Notification | Envio de notificações do servidor |
 | 🖼️ WidgetKit | Widgets estáticos que mudam mensalmente |
 | 🤖 Foundations Models | App simples que o usuário solicita algo pelo prompt e o foundations retorna a resposta |
+| 📊 Charts | O projeto GráficosApp mostra um gráfico de barras estático, utilizando a framework Charts |
 
 ## 🧠 Objetivo
 
