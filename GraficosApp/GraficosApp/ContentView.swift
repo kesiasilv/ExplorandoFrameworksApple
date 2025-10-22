@@ -8,8 +8,7 @@
 import SwiftUI
 import Charts //importando a framework responsavel por criar a vizualizacao de graficos
 
-struct ContentView: View {
-    
+struct ContentView: View { //
     //aqui criamos a vizualizacao dos daods oque sera exibido nesse caso um array de numeros por anos
     let viewDados: [ViewDado] = [
         .init(date: Date.from(year: 2025, month: 01, day: 01), viewCount: 1340),
