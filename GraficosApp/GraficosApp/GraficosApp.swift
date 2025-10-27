@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct GraficosAppApp: App {
+struct GraficosApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+           BarChartView()
         }
     }
 }
