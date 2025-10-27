@@ -8,7 +8,7 @@
 import SwiftUI
 import Charts
 
-struct LineChartView: View {
+struct RectangleChartView: View {
     var mockData = ViewDado.mockData //dados
     
     var body: some View {
@@ -17,7 +17,7 @@ struct LineChartView: View {
                 
                 ForEach(mockData) { viewDado in
                     //criadno uma vizualizacao de grafico do tipo de barras
-                    LineMark(
+                    RectangleMark(
                         x: .value("Ano", viewDado.date, unit: .month),
                         y: .value("Dados", viewDado.viewCount)
                         )
@@ -45,5 +45,5 @@ struct LineChartView: View {
 }
 
 #Preview {
-    LineChartView()
+    RectangleChartView()
 }
